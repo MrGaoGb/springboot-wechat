@@ -1,0 +1,9 @@
+# 应用名称
+spring:
+  application:
+    name: mg-wechat-web
+# 应用服务 WEB 访问端口
+server:
+  port: 8090
+
+
